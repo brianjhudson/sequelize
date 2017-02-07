@@ -1,0 +1,14 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brianjhudson/sequelize.git",
+  "author": "Brian Hudson <brianjasonhudson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "express-session": "^1.15.0"
+  }
+}
